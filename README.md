@@ -1,7 +1,7 @@
-*Note: This code is still WIP.
-------------------------------
+Note: This code is still WIP.
+-----------------------------
 
-#Arduino code for MCP4706 8-bit DAC with EEPROM and I2C Interface
+*Arduino code for MCP4706 8-bit DAC with EEPROM and I2C Interface
 
 The MCP4706 is a single channel 8-bit buffered voltage output Digital-to-Analog Converter (DAC) with nonvolatile memory and an I2C serial interface.
 
